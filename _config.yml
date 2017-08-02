@@ -78,6 +78,6 @@ theme: cactus-dark
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:nickshey/Blog.git
+  repo: git@github.com:nickshey/nickshey.github.io.git
   branch: master 
 
